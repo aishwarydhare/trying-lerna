@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@aishwarydhare/root",
   "private": true,
   "repository": "https://github.com/aishwarydhare/trying-lerna",
   "devDependencies": {
