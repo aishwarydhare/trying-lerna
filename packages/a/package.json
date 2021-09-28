@@ -1,6 +1,10 @@
 {
   "name": "@aishwarydhare/a",
   "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwarydhare/trying-lerna.git"
+  },
   "description": "> TODO: description",
   "author": "Aishwary Dhare <aishwary.dhare@gmail.com>",
   "homepage": "",

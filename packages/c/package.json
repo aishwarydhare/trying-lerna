@@ -1,6 +1,10 @@
 {
   "name": "@aishwarydhare/c",
   "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwarydhare/trying-lerna.git"
+  },
   "description": "> TODO: description",
   "author": "Aishwary Dhare <aishwary.dhare@gmail.com>",
   "homepage": "",
@@ -19,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e2dff2732d95d48adb2276f872b9839055156c2b"
+  "gitHead": "67b81af74e691f91bcd61dec9aea96761f831495"
 }
