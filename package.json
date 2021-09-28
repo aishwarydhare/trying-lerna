@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "private": false,
+  "private": true,
   "repository": "https://github.com/aishwarydhare/trying-lerna",
   "devDependencies": {
     "lerna": "^4.0.0"
