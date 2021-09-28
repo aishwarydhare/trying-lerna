@@ -1,7 +1,7 @@
 {
-  "name": "@aishwarydhare/root",
+  "name": "root",
   "private": true,
-  "repository": "https://github.com/aishwarydhare/trying-lerna",
+  "repository": "https://github.com/aishwarydhare/trying-lerna.git",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
